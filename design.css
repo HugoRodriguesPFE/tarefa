@@ -1,0 +1,60 @@
+h1{
+    color: brown;
+}
+#economia h2{
+    color: blueviolet;
+}
+#sports h2{
+    color: cadetblue;
+}
+.creation-date{
+    color: #ccc;
+}
+header li{
+    display: inline;
+}
+.container{
+    width: 1366px;
+    margin: 0 auto 0 auto;
+}
+.article{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.article article img {
+    height: 180px;
+}
+.article article {
+    width: 30%;
+}
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+body > header{
+    background-color: #2f3640;
+    padding: 16px 0;
+    color: #f5f6fa;
+
+}
+header li a{
+    color: #f5f6fa:
+}
+section{
+    padding: 16px 0;
+}
+section h2, .article article{
+    margin: 16px;
+}
+.article article h3{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.article article a{
+    background-color: blue;
+    color: #fff;
+    padding: 8px;
+    display: inline-block;
+}
