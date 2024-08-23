@@ -7,6 +7,12 @@ h1{
 #sports h2{
     color: cadetblue;
 }
+#saude h2{
+    color: red;
+}
+#politica h2{
+    color: #2f3640;
+}
 .creation-date{
     color: #ccc;
 }
@@ -90,4 +96,16 @@ selction h2 {
 #economia .articles article a {
     background-color: #ff9f1a;
 
+}
+#saude{
+    background-color: pink;
+}
+#saude .articles article a{
+    background-color: palevioletred;
+}
+#politica {
+background-color: rgb(182, 177, 177);
+}
+#politica .articles article a{
+    background-color: gray;
 }
